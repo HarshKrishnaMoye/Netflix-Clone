@@ -14,7 +14,6 @@ Welcome to the Netflix Clone UI project! This is a mobile-responsive user interf
 ## Technologies Used
 - **HTML**: Structuring the user interface elements.
 - **CSS**: Styling the components and layout.
-- **JavaScript**: Implementing any necessary interactive features.
 
 ## Contributing
 This project is currently maintained by Harsh Krishna Moye and is not open for contributions. However, feedback and suggestions are always welcome.
